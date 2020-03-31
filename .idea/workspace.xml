@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da66851-4d35-4104-866b-0f1e95c29fb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/profiles_api/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles_api/migrations/0002_profilefeeditem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/permissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/views.py" afterDir="false" />
@@ -13,6 +16,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../loftschool/DemoRest" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +90,8 @@
       <updated>1585382666294</updated>
       <workItem from="1585382684191" duration="17934000" />
       <workItem from="1585472664808" duration="7850000" />
-      <workItem from="1585558513350" duration="8333000" />
+      <workItem from="1585558513350" duration="9631000" />
+      <workItem from="1585642998545" duration="10188000" />
     </task>
     <task id="LOCAL-00001" summary="add viewset">
       <created>1585484176025</created>
