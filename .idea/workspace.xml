@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da66851-4d35-4104-866b-0f1e95c29fb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy/nginx_profiles_api.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/setup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/supervisor_profiles_api.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/update.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/req.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/setup.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +85,8 @@
       <workItem from="1585382684191" duration="17934000" />
       <workItem from="1585472664808" duration="7850000" />
       <workItem from="1585558513350" duration="9631000" />
-      <workItem from="1585642998545" duration="12933000" />
+      <workItem from="1585642998545" duration="13832000" />
+      <workItem from="1585727633057" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="add viewset">
       <created>1585484176025</created>
